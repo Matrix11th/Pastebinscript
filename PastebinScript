@@ -62,7 +62,7 @@ end)
 local Section = Tab:NewSection("كيبورد")
 
 Section:NewButton("تشغيل", "", function()
-    print("Clicked")loadstring(game:HttpGet("https://pastebin.com/raw/CsKA3L8Z"))()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt")
  end)
  
  
